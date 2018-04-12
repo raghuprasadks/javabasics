@@ -1,3 +1,4 @@
+package workingjava;
 public class simplemaths{
 public static void main(String args[])
 {
